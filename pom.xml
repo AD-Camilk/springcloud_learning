@@ -18,6 +18,7 @@
         <module>hystrix</module>
         <module>native_config_server</module>
         <module>native_config_client</module>
+        <module>configclient</module>
     </modules>
     <name>demo1</name>
     <description>Demo project for Spring Boot</description>
